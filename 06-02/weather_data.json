@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 76.6833,
+        "lat": 20.7833
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 30.98,
+        "feels_like": 29.46,
+        "temp_min": 30.98,
+        "temp_max": 30.98,
+        "pressure": 1010,
+        "humidity": 27,
+        "sea_level": 1010,
+        "grnd_level": 979
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.9,
+        "deg": 22,
+        "gust": 1.48
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1738835218,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1738805281,
+        "sunset": 1738846001
+    },
+    "timezone": 19800,
+    "id": 1256620,
+    "name": "Shegaon",
+    "cod": 200
+}

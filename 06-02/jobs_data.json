@@ -1,0 +1,1101 @@
+[
+    {
+        "id": "1385363191",
+        "date_posted": "2025-02-08T06:12:16.413",
+        "date_created": "2025-02-08T06:13:05.289144",
+        "title": "Software Engineer - Sr. Consultant level (Java, Spring Boot, Kafka, GenAI, 10-13 years exp)",
+        "organization": "Visa",
+        "organization_url": null,
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "address": {
+                    "addressLocality": "Bangalore",
+                    "addressRegion": "INDIA",
+                    "addressCountry": "India"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Bangalore, India"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "Full-time"
+        ],
+        "url": "https://jobs.smartrecruiters.com/Visa/744000041335225-software-engineer-sr-consultant-level-java-spring-boot-kafka-genai-10-13-years-exp-",
+        "source_type": "ats",
+        "source": "smartrecruiters",
+        "source_domain": "jobs.smartrecruiters.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1383736036",
+        "date_posted": "2025-02-07T17:34:17",
+        "date_created": "2025-02-07T21:46:10.225083",
+        "title": "Lead Software Engineer",
+        "organization": "DTCC Candidate Experience Site",
+        "organization_url": "https://ebxr.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": null,
+                    "addressRegion": "Chennai",
+                    "addressCountry": "India"
+                }
+            }
+        ],
+        "locations_alt_raw": null,
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "Full time"
+        ],
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/209859",
+        "source_type": "ats",
+        "source": "oraclecloud",
+        "source_domain": "ebxr.fa.us2.oraclecloud.com",
+        "organization_logo": null,
+        "cities_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.6139
+        ],
+        "lngs_derived": [
+            77.209
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1382164268",
+        "date_posted": "2025-02-07T13:43:37.456",
+        "date_created": "2025-02-07T13:45:06.26314",
+        "title": "Staff Software Engineer at Authorize.net (C#, .Net Core, 7+ years)",
+        "organization": "Visa",
+        "organization_url": null,
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "address": {
+                    "addressLocality": "Bangalore",
+                    "addressRegion": "INDIA",
+                    "addressCountry": "India"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Bangalore, India"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "Full-time"
+        ],
+        "url": "https://jobs.smartrecruiters.com/Visa/744000041193430-staff-software-engineer-at-authorize-net-c-net-core-7-years-",
+        "source_type": "ats",
+        "source": "smartrecruiters",
+        "source_domain": "jobs.smartrecruiters.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381848362",
+        "date_posted": "2025-02-07T12:07:32.521",
+        "date_created": "2025-02-07T12:09:06.603271",
+        "title": "Software Engineer III - Data",
+        "organization": "Entain",
+        "organization_url": null,
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "address": {
+                    "streetAddress": "Hitech City Road",
+                    "addressLocality": "Kondapur",
+                    "addressRegion": "TS",
+                    "addressCountry": "India"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Hitech City Rd, Laxmi Cyber City, Whitefields, HITEC City, Kondapur, Telangana, India"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "Full-time"
+        ],
+        "url": "https://jobs.smartrecruiters.com/Entain/744000041178590-software-engineer-iii-data",
+        "source_type": "ats",
+        "source": "smartrecruiters",
+        "source_domain": "jobs.smartrecruiters.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Kond\u0101pur"
+        ],
+        "regions_derived": [
+            "Andhra Pradesh"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Kond\u0101pur, Andhra Pradesh, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            16.724
+        ],
+        "lngs_derived": [
+            77.736
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1385992374",
+        "date_posted": "2025-02-07T11:01:57",
+        "date_created": "2025-02-08T09:42:30.938506",
+        "title": "Senior Lead Software Engineer",
+        "organization": "John Deere",
+        "organization_url": "johndeere.com",
+        "date_validthrough": "2025-03-09T11:01:57",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Bengaluru",
+                    "addressRegion": "KA",
+                    "addressCountry": {
+                        "@type": "Country",
+                        "name": "IN"
+                    }
+                }
+            }
+        ],
+        "locations_alt_raw": null,
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://careers.deere.com/careers/job/137464900358-senior-lead-software-engineer-bangalore-karnataka-india",
+        "source_type": "ats",
+        "source": "eightfold",
+        "source_domain": "careers.deere.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381604191",
+        "date_posted": "2025-02-07T10:51:28.547",
+        "date_created": "2025-02-07T10:53:07.89934",
+        "title": "Software Security Engineer",
+        "organization": "MicroStrategy",
+        "organization_url": null,
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "address": {
+                    "addressLocality": "Mumbai",
+                    "addressCountry": "India"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Mumbai, India"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "Full-time"
+        ],
+        "url": "https://jobs.smartrecruiters.com/MicroStrategy1/744000041164359-software-security-engineer",
+        "source_type": "ats",
+        "source": "smartrecruiters",
+        "source_domain": "jobs.smartrecruiters.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Mumbai"
+        ],
+        "regions_derived": [
+            "Mah\u0101r\u0101shtra"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Mumbai, Mah\u0101r\u0101shtra, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            19.0761
+        ],
+        "lngs_derived": [
+            72.8775
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1384519462",
+        "date_posted": "2025-02-07T10:18:27",
+        "date_created": "2025-02-08T01:49:00.095792",
+        "title": "Software Engineer",
+        "organization": "Amdocs",
+        "organization_url": "amdocs.com",
+        "date_validthrough": "2025-03-09T10:18:27",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Pune",
+                    "addressRegion": "MH",
+                    "addressCountry": {
+                        "@type": "Country",
+                        "name": "IN"
+                    }
+                }
+            }
+        ],
+        "locations_alt_raw": null,
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://jobs.amdocs.com/careers/job/563431001145108-software-engineer-india-pune-amdocs-site-",
+        "source_type": "ats",
+        "source": "eightfold",
+        "source_domain": "jobs.amdocs.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Pune"
+        ],
+        "regions_derived": [
+            "Mah\u0101r\u0101shtra"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Pune, Mah\u0101r\u0101shtra, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            18.5203
+        ],
+        "lngs_derived": [
+            73.8567
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1385992508",
+        "date_posted": "2025-02-07T07:37:25",
+        "date_created": "2025-02-08T09:42:33.905987",
+        "title": "Senior Lead Software Engineer",
+        "organization": "John Deere",
+        "organization_url": "johndeere.com",
+        "date_validthrough": "2025-03-09T07:37:25",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Bengaluru",
+                    "addressRegion": "KA",
+                    "addressCountry": {
+                        "@type": "Country",
+                        "name": "IN"
+                    }
+                }
+            }
+        ],
+        "locations_alt_raw": null,
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://careers.deere.com/careers/job/137464771190-senior-lead-software-engineer-bangalore-karnataka-india",
+        "source_type": "ats",
+        "source": "eightfold",
+        "source_domain": "careers.deere.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1385992443",
+        "date_posted": "2025-02-07T07:29:48",
+        "date_created": "2025-02-08T09:42:32.19048",
+        "title": "Senior Lead Software Engineer",
+        "organization": "John Deere",
+        "organization_url": "johndeere.com",
+        "date_validthrough": "2025-03-09T07:29:48",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Bengaluru",
+                    "addressRegion": "KA",
+                    "addressCountry": {
+                        "@type": "Country",
+                        "name": "IN"
+                    }
+                }
+            }
+        ],
+        "locations_alt_raw": null,
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://careers.deere.com/careers/job/137464771191-senior-lead-software-engineer-bangalore-karnataka-india",
+        "source_type": "ats",
+        "source": "eightfold",
+        "source_domain": "careers.deere.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381469036",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T09:35:23.284435",
+        "title": "Senior software engineer",
+        "organization": "Blue Yonder",
+        "organization_url": "",
+        "date_validthrough": "2025-02-14T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "Bangalore"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Bangalore"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Senior-software-engineer_244668",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "jda.wd5.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381410334",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T09:07:10.852178",
+        "title": "Manager, Software Engineer, C&IT, Autosys",
+        "organization": "MSD",
+        "organization_url": "",
+        "date_validthrough": "2025-02-21T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "IND - Telangana - Hyderabad (HITEC City)"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "IND - Telangana - Hyderabad (HITEC City)"
+        ],
+        "location_type": "TELECOMMUTE",
+        "location_requirements_raw": [
+            {
+                "@type": "Country",
+                "name": "India"
+            }
+        ],
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Manager--Software-Engineer--C-IT--Autosys_R333909-1",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "msd.wd5.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.6139
+        ],
+        "lngs_derived": [
+            77.209
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381410339",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T09:07:12.159344",
+        "title": "Senior Manager, Software Engineer, C&IT, Autosys",
+        "organization": "MSD",
+        "organization_url": "",
+        "date_validthrough": "2025-02-21T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "IND - Telangana - Hyderabad (HITEC City)"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "IND - Telangana - Hyderabad (HITEC City)"
+        ],
+        "location_type": "TELECOMMUTE",
+        "location_requirements_raw": [
+            {
+                "@type": "Country",
+                "name": "India"
+            }
+        ],
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Manager--Software-Engineer--C-IT--Autosys_R333908",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "msd.wd5.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.6139
+        ],
+        "lngs_derived": [
+            77.209
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381140890",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T06:09:52.875175",
+        "title": "Senior Software Engineer-Adobe Experience Platform (AEP)",
+        "organization": "Wells Fargo",
+        "organization_url": "",
+        "date_validthrough": "2025-02-15T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "111443-IND-HYDERABAD-INTL HYD WF CENTRE BLK B8 Twr-4"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Hyderabad, India"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer-Adobe-Experience-Platform--AEP-_R-424617",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "wd1.myworkdaysite.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Hyder\u0101b\u0101d"
+        ],
+        "regions_derived": [
+            "Telang\u0101na"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Hyder\u0101b\u0101d, Telang\u0101na, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            17.385
+        ],
+        "lngs_derived": [
+            78.4867
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381410507",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T09:07:33.042116",
+        "title": "Software Development Engineer - III (Backend Heavy & Front-end Experience )",
+        "organization": "Expedia Group",
+        "organization_url": "",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "India - Gurgaon"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "India - Gurgaon"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://expedia.wd5.myworkdayjobs.com/private/job/India---Gurgaon/Software-Development-Engineer---III--Backend-Heavy---Front-end-Experience--_R-92857",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "expedia.wd5.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Gurgaon"
+        ],
+        "regions_derived": [
+            "Hary\u0101na"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Gurgaon, Hary\u0101na, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.456
+        ],
+        "lngs_derived": [
+            77.029
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381505661",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T10:06:32.411377",
+        "title": "Staff Software Engineer",
+        "organization": "Telstra",
+        "organization_url": "",
+        "date_validthrough": "2025-02-21T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "Telstra ICC Bangalore"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Bengaluru, Karnataka"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://telstra.wd3.myworkdayjobs.com/Telstra_Careers/job/Bengaluru-Karnataka/Staff-Software-Engineer_JR-10138782",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "telstra.wd3.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Bangalore"
+        ],
+        "regions_derived": [
+            "Karn\u0101taka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Bangalore, Karn\u0101taka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.9789
+        ],
+        "lngs_derived": [
+            77.5917
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381506077",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T10:06:48.528185",
+        "title": "Engineer III, Software",
+        "organization": "F5",
+        "organization_url": "",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "Hyderabad (SEZ)"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Hyderabad"
+        ],
+        "location_type": "TELECOMMUTE",
+        "location_requirements_raw": [
+            {
+                "@type": "Country",
+                "name": "India"
+            }
+        ],
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Engineer-III--Software_RP1032666",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "ffive.wd5.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Hyder\u0101b\u0101d"
+        ],
+        "regions_derived": [
+            "Telang\u0101na"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Hyder\u0101b\u0101d, Telang\u0101na, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            17.385
+        ],
+        "lngs_derived": [
+            78.4867
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381384466",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T08:41:11.221821",
+        "title": "Software Engineer Consultant II",
+        "organization": "Allstate",
+        "organization_url": "",
+        "date_validthrough": "2025-02-09T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "Ind \u2013 Blr Sez 1 (3Rd, 6Th &amp; 7Th Floor)"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Ind \u2013 Blr Sez 1 (3Rd, 6Th & 7Th Floor)"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Consultant-II_R9257-1",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "allstate.wd5.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.6139
+        ],
+        "lngs_derived": [
+            77.209
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1384663613",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-08T02:35:04.875589",
+        "title": "Software Engineer",
+        "organization": "Commonwealth Bank",
+        "organization_url": "",
+        "date_validthrough": "2025-02-21T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "Bangalore - Manyata Tech Park Road"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Bangalore - Manyata Tech Park Road"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Bangalore---Manyata-Tech-Park-Road/Software-Engineer_REQ228800",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "cba.wd3.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.6139
+        ],
+        "lngs_derived": [
+            77.209
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381309841",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T08:03:59.877485",
+        "title": "Software Engineer II-1(Java fullstack developer, springboot, microservices, kafka))",
+        "organization": "Mastercard",
+        "organization_url": "",
+        "date_validthrough": "2025-02-28T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "Pune, India"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Pune, India"
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II-1-Java-fullstack-developer--springboot--microservices--kafka--_R-238670-1",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "mastercard.wd1.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": [
+            "Pune"
+        ],
+        "regions_derived": [
+            "Mah\u0101r\u0101shtra"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Pune, Mah\u0101r\u0101shtra, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            18.5203
+        ],
+        "lngs_derived": [
+            73.8567
+        ],
+        "remote_derived": false
+    },
+    {
+        "id": "1381230499",
+        "date_posted": "2025-02-07T00:00:00",
+        "date_created": "2025-02-07T07:08:35.467198",
+        "title": "Software Engineer II",
+        "organization": "JLL Technologies",
+        "organization_url": "",
+        "date_validthrough": "2025-03-31T00:00:00",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "India",
+                    "addressLocality": "IND-CORP Bengaluru-TDIM - PTT"
+                }
+            }
+        ],
+        "locations_alt_raw": [
+            "Bengaluru, KA"
+        ],
+        "location_type": "TELECOMMUTE",
+        "location_requirements_raw": [
+            {
+                "@type": "Country",
+                "name": "India"
+            }
+        ],
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://jll.wd1.myworkdayjobs.com/jlltcareers/job/Bengaluru-KA/Software-Engineer-II_REQ409249",
+        "source_type": "ats",
+        "source": "workday",
+        "source_domain": "jll.wd1.myworkdayjobs.com",
+        "organization_logo": null,
+        "cities_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.6139
+        ],
+        "lngs_derived": [
+            77.209
+        ],
+        "remote_derived": false
+    }
+]
